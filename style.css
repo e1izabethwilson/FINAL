@@ -78,7 +78,8 @@ background-position: 50% 50%;
 footer {
 text-align: center;
 color: #000000;
-font-family: 'Roboto bold', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
 background-color: #FFFFFF;
 padding-top: 20px;
 }
